@@ -1,0 +1,73 @@
+{
+    "basic_info": {
+      "name": "Esther Oluwafunmilayo Gbagbeolu",
+      "titles": [ "WordPress Developer", "Front-end Developer", "Technical Writer"],
+      "social": [
+        {
+          "name": "mail",
+          "url": "mailto:esther.gbagbeolu@gmail.com",
+          "class": "fa fa-envelope"
+        },
+        {
+          "name": "github",
+          "url": "https://github.com/justfumz",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/gbagbeolu-esther",
+          "class": "fab fa-linkedin"
+        }
+      ],
+      "image": "about.png"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "WordPress",
+          "class": "devicon-wordpress-plain",
+          "level": "95"
+        },
+        {
+          "name": "WooCommerce",
+          "class": "devicon-woocommerce-plain",
+          "level": "90"
+        },
+        {
+          "name": "Elementor",
+          "class": "fab fa-elementor",
+          "level": "60"
+        },
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "60"
+        },
+        {
+          "name": "ReactJs",
+          "class": "devicon-react-plain",
+          "level": "70"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "Node",
+          "class": "devicon-nodejs-plain",
+          "level": "85"
+        }
+      ]
+    }
+  }

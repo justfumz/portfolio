@@ -1,0 +1,153 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I am Esther Oluwafunmilayo Gbagbeolu, a Web developer based in Lagos, Nigeria. I have been designing, branding and building websites since 2019. As a student, I discovered that web development would be a good fit for me as my creative and logical sides have always complemented each other. As a bonus, being both a creative and developer allows me to ensure I lose no detail in translation. I specialize in creating professional websites for individuals and businesses, providing custom designs at affordable prices and ensuring your website is an effective first impression for your customers. I'm quietly confident, naturally curious, and continually working on improving my skills with one design problem at a time. My portfolio speaks volumes about my work ethic and dedication to excellence, so if you think I'd be a good fit for your project, kindly contact me using the links in the footer section. Thank you 💜.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "ConnectSIP",
+        "startDate": "2022",
+        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "images": [
+          "images/portfolio/connectsip/1.png",
+          "images/portfolio/connectsip/2.png"
+        ],
+        "url": "https://connectsip.com/",
+        "technologies": [
+          {
+            "class": "devicon-wordpress-plain",
+            "name": "WordPress"
+          },
+          {
+            "class": "fab fa-elementor",
+            "name": "Elementor"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          }
+        ]
+      },
+      {
+        "title": "RapidBTS",
+        "startDate": "2021",
+        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "images": [
+          "images/portfolio/rapidbts/1.png",
+          "images/portfolio/rapidbts/2.png"
+        ],
+        "url": "http://shop.rapidbts.com/",
+        "technologies": [
+          {
+            "class": "devicon-wordpress-plain",
+            "name": "WordPress"
+          },
+          {
+            "class": "devicon-woocommerce-plain",
+            "name": "WooCommerce"
+          },
+          {
+            "class": "fab fa-cc-visa",
+            "name": "Paystack"
+          }
+        ]
+      },
+      {
+        "title": "TechHub Services",
+        "startDate": "2022",
+        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "images": [
+          "images/portfolio/techhub/1.png",
+          "images/portfolio/techhub/2.png"
+        ],
+        "url": "http://techhubservices.com.ng/",
+        "technologies": [
+          {
+            "class": "devicon-wordpress-plain",
+            "name": "WordPress"
+          },
+          {
+            "class": "fab fa-elementor",
+            "name": "Elementor"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "ConnectSIP Limited",
+        "title": "WordPress Developer",
+        "years": "03.2022 - present",
+        "mainTech": [
+          "WordPress"
+        ],
+        "technologies": [
+          "WooCommerce",
+          "Elementor",
+          "WpBakery",
+          "Yoast SEO",
+          "Mailchimp",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Bootstrap"
+        ]
+      },
+      {
+        "company": "Freelancer",
+        "title": "Front-End Developer",
+        "years": "01.2021 - Present",
+        "mainTech": [
+          "ReactJs"
+        ],
+        "technologies": [
+          "HTML5",
+          "CSS3",
+          "Bootstrap",
+          "JavaScript",
+          "ReactJS",
+          "NodeJS",
+          "TypeScript"
+        ]
+      },
+      {
+        "company": "HostSleek Technologies",
+        "title": "WordPress Developer (Intern)",
+        "years": "08.2017 - 12.2018",
+        "mainTech": [
+          "WordPress"
+        ],
+        "technologies": [
+          "WooCommerce" ,
+          "Elementor",
+          "WpBakery",
+          "WHM",
+          "Yoast SEO",
+          "Mailchimp",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Bootstrap"
+        ]
+      }
+
+    ]
+  }
