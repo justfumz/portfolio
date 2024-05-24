@@ -19,7 +19,7 @@ class Footer extends Component {
         <div className="col-md-12">
           <div className="social-links">
             {networks}
-            <div><button><i className="fa fa-download"></i><a href="EstherGbagbeolu-Resume.pdf" download> Download Resume</a></button></div>
+            {/* <div><button><i className="fa fa-download"></i><a href="EstherGbagbeolu-Resume.pdf" download> Download Resume</a></button></div> */}
            </div>
 
           <div className="copyright py-4 text-center">
