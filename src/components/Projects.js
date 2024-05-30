@@ -66,7 +66,7 @@ class Projects extends Component {
             data={this.state.deps}
           />
           <div style={{ marginTop: '20px', textAlign: 'center' }}>
-            <a href="">
+            <a href="/">
               <button style={{ padding: '10px 20px', fontSize: '16px' }}>
                 View All Projects
               </button>
