@@ -1,153 +1,242 @@
 {
-    "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I am Esther Oluwafunmilayo Gbagbeolu, a Web developer based in Lagos, Nigeria. I have been designing, branding and building websites since 2019. As a student, I discovered that web development would be a good fit for me as my creative and logical sides have always complemented each other. As a bonus, being both a creative and developer allows me to ensure I lose no detail in translation. I specialize in creating professional websites for individuals and businesses, providing custom designs at affordable prices and ensuring your website is an effective first impression for your customers. I'm quietly confident, naturally curious, and continually working on improving my skills with one design problem at a time. My portfolio speaks volumes about my work ethic and dedication to excellence, so if you think I'd be a good fit for your project, kindly contact me using the links in the footer section. Thank you 💜.",
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
-      }
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I am Esther Oluwafunmilayo Gbagbeolu, a Web developer based in Lagos, Nigeria. I have been designing, branding and building websites since 2019. As a student, I discovered that web development would be a good fit for me as my creative and logical sides have always complemented each other. As a bonus, being both a creative and developer allows me to ensure I lose no detail in translation. I specialize in creating professional websites for individuals and businesses, providing custom designs at affordable prices and ensuring your website is an effective first impression for your customers. I'm quietly confident, naturally curious, and continually working on improving my skills with one design problem at a time. My portfolio speaks volumes about my work ethic and dedication to excellence, so if you think I'd be a good fit for your project, kindly contact me using the links in the footer section. Thank you 💜.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Cambridge Growth",
+      "startDate": "2024",
+      "description": "",
+      "images": [
+        "images/portfolio/cambridge/1.png",
+        "images/portfolio/cambridge/2.png"
+      ],
+      "url": "https://cambridgegrowthpartners.com/",
+      "technologies": [
+        {
+          "class": "devicon-wordpress-plain",
+          "name": "WordPress"
+        },
+        {
+          "class": "fab fa-elementor",
+          "name": "Elementor"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "ConnectSIP",
-        "startDate": "2022",
-        "description": "",
-        "images": [
-          "images/portfolio/connectsip/1.png",
-          "images/portfolio/connectsip/2.png"
-        ],
-        "url": "https://connectsip.com/",
-        "technologies": [
-          {
-            "class": "devicon-wordpress-plain",
-            "name": "WordPress"
-          },
-          {
-            "class": "fab fa-elementor",
-            "name": "Elementor"
-          },
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS3"
-          }
-        ]
-      },
-      {
-        "title": "RapidBTS",
-        "startDate": "2021",
-        "description": "",
-        "images": [
-          "images/portfolio/rapidbts/1.png",
-          "images/portfolio/rapidbts/2.png"
-        ],
-        "url": "http://shop.rapidbts.com/",
-        "technologies": [
-          {
-            "class": "devicon-wordpress-plain",
-            "name": "WordPress"
-          },
-          {
-            "class": "devicon-woocommerce-plain",
-            "name": "WooCommerce"
-          },
-          {
-            "class": "fab fa-cc-visa",
-            "name": "Paystack"
-          }
-        ]
-      },
-      {
-        "title": "TechHub Services",
-        "startDate": "2022",
-        "description": "",
-        "images": [
-          "images/portfolio/techhub/1.png",
-          "images/portfolio/techhub/2.png"
-        ],
-        "url": "http://techhubservices.com.ng/",
-        "technologies": [
-          {
-            "class": "devicon-wordpress-plain",
-            "name": "WordPress"
-          },
-          {
-            "class": "fab fa-elementor",
-            "name": "Elementor"
-          },
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS3"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "ConnectSIP Limited",
-        "title": "WordPress Developer",
-        "years": "03.2022 - present",
-        "mainTech": [
-          "WordPress"
-        ],
-        "technologies": [
-          "WooCommerce",
-          "Elementor",
-          "WpBakery",
-          "Yoast SEO",
-          "Mailchimp",
-          "HTML",
-          "CSS",
-          "JavaScript",
-          "Bootstrap"
-        ]
-      },
-      {
-        "company": "Freelancer",
-        "title": "Front-End Developer",
-        "years": "01.2021 - Present",
-        "mainTech": [
-          "ReactJs"
-        ],
-        "technologies": [
-          "HTML5",
-          "CSS3",
-          "Bootstrap",
-          "JavaScript",
-          "ReactJS",
-          "NodeJS",
-          "TypeScript"
-        ]
-      },
-      {
-        "company": "HostSleek Technologies",
-        "title": "WordPress Developer (Intern)",
-        "years": "08.2017 - 12.2018",
-        "mainTech": [
-          "WordPress"
-        ],
-        "technologies": [
-          "WooCommerce" ,
-          "Elementor",
-          "WpBakery",
-          "WHM",
-          "Yoast SEO",
-          "Mailchimp",
-          "HTML",
-          "CSS",
-          "JavaScript",
-          "Bootstrap"
-        ]
-      }
-
-    ]
-  }
+    {
+      "title": "FoneTracer24",
+      "startDate": "2024",
+      "description": "",
+      "images": [
+        "images/portfolio/fonetracer/1.png",
+        "images/portfolio/fonetracer/2.png"
+      ],
+      "url": "https://fonetracer24.com/",
+      "technologies": [
+        {
+          "class": "devicon-wordpress-plain",
+          "name": "WordPress"
+        },
+        {
+          "class": "fab fa-elementor",
+          "name": "Elementor"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Lekoil Limited",
+      "startDate": "2022",
+      "description": "",
+      "images": [
+        "images/portfolio/lekoil/2.png",
+        "images/portfolio/lekoil/1.png"
+      ],
+      "url": "hhttps://lekoil.com/",
+      "technologies": [
+        {
+          "class": "devicon-wordpress-plain",
+          "name": "WordPress"
+        },
+        {
+          "class": "fab fa-elementor",
+          "name": "Elementor"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "ConnectSIP",
+      "startDate": "2022",
+      "description": "",
+      "images": [
+        "images/portfolio/connectsip/1.png",
+        "images/portfolio/connectsip/2.png"
+      ],
+      "url": "https://connectsip.com/",
+      "technologies": [
+        {
+          "class": "devicon-wordpress-plain",
+          "name": "WordPress"
+        },
+        {
+          "class": "fab fa-elementor",
+          "name": "Elementor"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        }
+      ]
+    },
+    {
+      "title": "TechHub Services",
+      "startDate": "2022",
+      "description": "",
+      "images": [
+        "images/portfolio/techhub/1.png",
+        "images/portfolio/techhub/2.png"
+      ],
+      "url": "http://techhubservices.com.ng/",
+      "technologies": [
+        {
+          "class": "devicon-wordpress-plain",
+          "name": "WordPress"
+        },
+        {
+          "class": "fab fa-elementor",
+          "name": "Elementor"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        }
+      ]
+    },
+    {
+      "title": "RapidBTS",
+      "startDate": "2021",
+      "description": "",
+      "images": [
+        "images/portfolio/rapidbts/1.png",
+        "images/portfolio/rapidbts/2.png"
+      ],
+      "url": "http://shop.rapidbts.com/",
+      "technologies": [
+        {
+          "class": "devicon-wordpress-plain",
+          "name": "WordPress"
+        },
+        {
+          "class": "devicon-woocommerce-plain",
+          "name": "WooCommerce"
+        },
+        {
+          "class": "fab fa-cc-visa",
+          "name": "Paystack"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "ConnectSIP Limited",
+      "title": "WordPress Developer",
+      "years": "03.2022 - present",
+      "mainTech": ["WordPress"],
+      "technologies": [
+        "WooCommerce",
+        "Elementor",
+        "WpBakery",
+        "Yoast SEO",
+        "Mailchimp",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Bootstrap"
+      ]
+    },
+    {
+      "company": "Freelancer",
+      "title": "Front-End Developer",
+      "years": "01.2021 - Present",
+      "mainTech": ["ReactJs"],
+      "technologies": [
+        "HTML5",
+        "CSS3",
+        "Bootstrap",
+        "JavaScript",
+        "ReactJS",
+        "NodeJS",
+        "TypeScript"
+      ]
+    },
+    {
+      "company": "HostSleek Technologies",
+      "title": "WordPress Developer (Intern)",
+      "years": "08.2017 - 12.2018",
+      "mainTech": ["WordPress"],
+      "technologies": [
+        "WooCommerce",
+        "Elementor",
+        "WpBakery",
+        "WHM",
+        "Yoast SEO",
+        "Mailchimp",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Bootstrap"
+      ]
+    }
+  ]
+}
