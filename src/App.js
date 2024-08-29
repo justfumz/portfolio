@@ -55,10 +55,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        <Header
-          className="headerFumz"
-          sharedData={this.state.sharedData.basic_info}
-        />
+        <Header sharedData={this.state.sharedData.basic_info} />
         <About
           resumeBasicInfo={this.state.resumeData.basic_info}
           sharedBasicInfo={this.state.sharedData.basic_info}
