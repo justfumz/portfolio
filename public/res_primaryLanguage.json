@@ -11,6 +11,39 @@
   },
   "projects": [
     {
+      "title": "White Intel",
+      "startDate": "2024",
+      "description": "A web hosting company",
+      "images": [
+        "images/portfolio/whiteintel/1.png",
+        "images/portfolio/whiteintel/2.png",
+        "images/portfolio/whiteintel/3.png"
+      ],
+      "url": "https://cambridgegrowthpartners.com/",
+      "technologies": [
+        {
+          "class": "devicon-wordpress-plain",
+          "name": "WordPress"
+        },
+        {
+          "class": "fab fa-elementor",
+          "name": "Elementor"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
       "title": "Cambridge Growth",
       "startDate": "2024",
       "description": "",
